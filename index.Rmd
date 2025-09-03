@@ -1,0 +1,30 @@
+---
+title: "Ryann Liu"
+image: "ryannpic.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/ryannrliu"
+  - label: Email
+    url: "mailto:ryannrliu@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## About Me
+
+Hello! My name is Ryann, and I am currently a sophomore at the University of Texas at Austin. I am studying Statistics and Data Science and minoring in Art History. My favorite thing about UT so far would probably be the beautiful campus and its architecture. I hope to continue to meet new people, and also learn many new things!
+
+## My Favorite Movies
+
+  <ul>
+      <li>10 Things I Hate About You</li>
+      <li>500 Days of Summer</li>
+      <li>Little Women (1994)</li>
+      <li>Spirited Away</li>
+      <li>Sabrina (1954)</li>
+    </ul>
+
+## Time Created
+
+**Time:** `r Sys.time()`
+
